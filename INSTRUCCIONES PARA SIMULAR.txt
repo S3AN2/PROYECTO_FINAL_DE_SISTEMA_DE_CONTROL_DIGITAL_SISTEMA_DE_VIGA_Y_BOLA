@@ -1,0 +1,3 @@
+SISTEMA DE CONTROL DE VIGA Y BOLA
+Buenas tardes
+Para poder abrir el archivo en general, se debe ejecutar el archivo controldigital.m una vez cargado la interfaz se podra interactuar.
